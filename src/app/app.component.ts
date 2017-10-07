@@ -8,13 +8,4 @@ import { Component, ViewChild } from '@angular/core';
 
 export class AppComponent {
 
-  @ViewChild('command') commandElement;
-
-  handleKeypress (event: any) {
-    let command = this.commandElement.nativeElement.value;
-    if(event.keyCode == 13){
-      alert(command);
-    }
-  }
-
 }
