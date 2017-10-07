@@ -1,12 +1,18 @@
 div{
   font-family: 'Inconsolata', monospace;
   font-size: 150%;
+  color: green;
+  width: 110%;
 }
 
 input{
+  padding-left: .8%;
+  background: black;
   font-family: 'Inconsolata', monospace;
-  font-size: 90%;
+  font-size: 100%;
+  color: green;
   border-color: transparent;
+  width: 90%;
 }
 
 input:focus{
