@@ -1,0 +1,15 @@
+div{
+  font-family: 'Inconsolata', monospace;
+  font-size: 150%;
+}
+
+input{
+  font-family: 'Inconsolata', monospace;
+  font-size: 90%;
+  border-color: transparent;
+}
+
+input:focus{
+  border-color: transparent;
+  outline: none;
+}
