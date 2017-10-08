@@ -1,0 +1,15 @@
+div{
+  font-family: 'Inconsolata', monospace;
+  font-size: 150%;
+  color: green;
+  width: 110%;
+  display: flex;
+}
+
+#content{
+  padding-left: .8%;
+  background: black;
+  font-family: 'Inconsolata', monospace;
+  font-size: 105%;
+  width: 90%;
+}
